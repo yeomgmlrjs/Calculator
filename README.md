@@ -8,7 +8,7 @@
 
 - ver. 1.0.1
 수정내용 - 프로그램의 전체적인 글씨 크기를 키우고 폰트를 수정했어요
-<img width="291" alt="작동사진" src="https://github.com/user-attachments/assets/86674f04-9ed7-4cb5-afc7-db58ddd5b310">
+<img width="291" alt="작동사진" src="https://github.com/user-attachments/assets/7639c98b-e513-4f24-ad79-30c731278e27">
 
 
 
